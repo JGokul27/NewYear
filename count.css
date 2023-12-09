@@ -12,9 +12,9 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('pexels-jonathan-petersson-399610.jpg');
+    background-image: url('newy.jpg');
     background-size: cover;
-    color: #fff;
+    color: #704d4d;
     background-position: center;
 }
 .counter{
@@ -25,11 +25,12 @@ body{
 }
 
 p{
-    font-size: 12px;
+    font-size: 20px;
+    font-family: 'magneto';
 }
 
 .newyear{
-    font-family: 'Inspiration',cursive;
+    font-family: 'magneto';
     font-size: 50px;
     font-weight: 400;
     margin-top: 30px;
